@@ -32,7 +32,8 @@ else:
     print("Error:", response.status_code)
 
 ## Programmatically Receive Data from the Microservice
-When you make a request to the microservice using an HTTP client, you will receive a JSON response containing three randomized cat profiles. These profiles are currently randomly generated from static source code. The response will look like this:
+When you make a request to the microservice using an HTTP client, you will receive a JSON response containing three randomized cat profiles. These profiles are currently randomly generated from static source code. 
+#### The response will look like this:
 [
     {
         "age": 5,
