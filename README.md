@@ -17,7 +17,7 @@ This will start the microservice as a Flask application and will be available to
 ## Programmatically Request Data from the Microservice
 You can use the Python requests library, which can be installed using the following command in your terminal: pip install requests.
 
-Here's an example of how to make a request and receive the data:
+#### Here's an example of how to make a request and receive the data:
 import requests
 
 url = 'http://127.0.0.1:5000/catprofile'
