@@ -3,8 +3,8 @@ The Cat Profile Microservice is a simple REST API built using Flask, which provi
 
 ## Requirements
 Before you are able to run the microservice and make requests, you need to have the following installed:
-Python (version 3.6 or higher)
-Flask (installed via pip install flask)
+Python (version 3.6 or higher), 
+Flask (installed via pip install flask), 
 Requests (installed via pip install requests)
 
 ## Running the Microservice
